@@ -1,1 +1,3 @@
 Original content of kerela-file1
+
+Added this line during read only
